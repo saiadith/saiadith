@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Adith Prakash! 👋
 
 ## 🚀 About Me
-I'm a student pursuing a Bachelor's in Data Science and Artificial Intelligence. I enjoy and am working at the intersection of **AI, data science, stats and optimization**. My expertise spans **machine learning, genetic algorithms, and circuit/graph theory**, with applications in **chemistry, agriculture, and education**.
+I'm a student pursuing a Bachelor's in Data Science and Artificial Intelligence. I enjoy and am working at the intersection of **AI, data science, stats and optimization**. My expertise spans **Data Analytics, Machine learning, Neural networks, software development and Database Engineering**, with applications in **Finance, Education and SaaS products**.
 
 ## 🔬 Research Interests
 - **Machine Learning & AI** (Fine-tuning LLMs, Optimization)
