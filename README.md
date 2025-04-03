@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Sai Adith Prakash! 👋
 
-<!--
-**saiadith/saiadith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a student pursuing a Bachelor's in Data Science and Artificial Intelligence. I enjoy and am working at the intersection of **AI, data science, stats and optimization**. My expertise spans **machine learning, genetic algorithms, and circuit/graph theory**, with applications in **chemistry, agriculture, and education**.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- **Machine Learning & AI** (Fine-tuning LLMs, Optimization)
+- **Signal Processing** (Object detection, patterns and signal representation)
+- **Data Science & Analytics** (Using Data to build scalable solutions)
+- **Evolutionary Algorithms** (Genetic Algorithms, Elitism, Crossover, Mutation)
+- **Educational AI Solutions** (LLM powered-translation, wrappers for education, fine-tuning for relevant curricula)
+- **Graph Theory and Discrete Mathematics**
+- **Econometrics** (Using statistical models for economic analysis and predictions) 
+- **Design of Algorithms** (Efficiency, use-cases and solving LeetCode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+- **Fine-Tuning LLMs for Education** 🧠
+- **AI-Based Customer Sentiment Analysis** 💬
+- **Portfolio Optimization** 📈
+- **Shaastra Hackathon-winner '24** 🏆
+
+## 🛠 Tech Stack
+- **Programming:** Python, JS, SQL
+- **Modules and Frameworks** PyTorch, TensorFlow, Keras, ReactJS, VueJS, NextJS, NodeJS
+- **Tools:** Git, Docker, Hadoop, PySpark
+
+⚡ Always open to discuss. 
+
