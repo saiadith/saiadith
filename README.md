@@ -1,9 +1,9 @@
-# Hi there, I'm Sai Adith Prakash! 👋
+# Hi there, I'm Sai Adith Prakash!
 
 ##  About Me
 Student pursuing a Bachelor's in Data Science and Artificial Intelligence, working on **AI, prob & stats and optimization**. .
 
-## 🔬 Research Interests
+## Research Interests
 - **AI Pretraining research** 
 - **signal representation**
 - **Statistical methods + evolutionary algorithms** 
@@ -20,8 +20,5 @@ Student pursuing a Bachelor's in Data Science and Artificial Intelligence, worki
 
 ## 🛠 Tech Stack
 - **Programming:** Python, JS, SQL
-- **Modules and Frameworks** PyTorch, TensorFlow, Keras, ReactJS, VueJS, NextJS, NodeJS
-- **Tools:** Git, Docker, Hadoop, PySpark
-
-⚡ Always open to discuss. 
-
+- **Modules and Frameworks** PyTorch, TensorFlow, Keras, Scikit, etc.
+- **Tools:** Git, Docker, PySpark
