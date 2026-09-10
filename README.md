@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Adith Prakash!
 
 ##  About Me
-Student pursuing a Bachelor's in Data Science and Artificial Intelligence, working on **AI, prob & stats and optimization**. .
+Student pursuing a Bachelor's in Data Science and Artificial Intelligence, working on **AI interp, neuro-symbolic AI, Clinical AI, stats and optimization**.
 
 ## Research Interests
 - **AI Pretraining research** 
